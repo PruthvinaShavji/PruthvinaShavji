@@ -1,40 +1,65 @@
-### Hi there 👋, I’m Pruthvina Shavji
-
-👀 I’m interested in web development, machine learning, and open-source contributions.  
-🌱 I’m currently learning React, Node.js, and TensorFlow.  
-💞️ I’m looking to collaborate on exciting open-source projects and innovative tech solutions.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pruthvina-shavji), [Email](mailto:pruthvina@example.com)  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I love hiking and have summited 5 peaks over 10,000 feet!
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300">
+<h1 align="center">✨ Creative Coder • UI Innovator • Design Enthusiast ✨</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Java+Architect+☕;React+Artisan+⚛️;Web+Designer+Extraordinaire+🤖;UI%2FUX+Visionary+🎨)](https://git.io/typing-svg)
+</p>
 
 ---
 
-### About Me
+### 📖 About Me  
+Hey there! I'm Pruthvina, a spellbinding Computer Science student at the University of Kent 🏰✨  
 
-I am passionate about web development, machine learning, and contributing to open-source projects. I have experience in developing full-stack web applications using JavaScript, React, and Node.js. Currently, I am expanding my knowledge in machine learning with TensorFlow, and I am eager to collaborate on innovative tech solutions and open-source projects.
+- 🎓 Proficient in Java & React, building dynamic web applications  
+- 🖌️ Skilled in UI/UX design, crafting intuitive, user-centric experiences 
+- 🧠 Passionate about the intersection of IoT and educational technology 
+- 💡 Experienced in mentoring over 50 students in coding and software development
+- 🌍 Fluent in three languages, with a strong command of technical terminology  
+
+Beyond coding, I am actively involved in organizing tech community events and exploring new ideas in the tech space.
+---
+
+### 🔥 Tech Incantations
+
+<div align="center">
+
+**✨ Frontend Magic**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**☕ Java Wizardry**  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**🎨 UX/UI & Design Tools**  
+![Figma](https://img.shields.io/badge/-Figma-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Prototyping](https://img.shields.io/badge/-Prototyping-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)
+
+
+</div>
 
 ---
 
-### Projects
+### ⚡ Live Code Rituals
 
-Here are some of my projects:
-
-- [WeatherApp](https://github.com/PruthvinaShavji/WeatherApp): A web app that provides weather forecasts for any city.
-- [TaskManager](https://github.com/PruthvinaShavji/TaskManager): A task management tool built with React and Node.js.
-- [MLClassifier](https://github.com/PruthvinaShavji/MLClassifier): A machine learning project for classifying images using TensorFlow.
-
----
-
-### Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/pruthvina-shavji)
-- [Twitter](https://twitter.com/pruthvina)
-- [Email](mailto:pruthvina@example.com)
-
-Feel free to reach out if you want to collaborate or just say hi!
-
----
-
-### Stats
-
-![Pruthvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=PruthvinaShavji&show_icons=true&theme=radical)
+```java
+public class InnovationFactory {
+    public static void main(String[] args) {
+        String[] creations = {
+            "📱 Mobile App Alchemy", 
+            "🌐 Web Experience Sorcery",
+            "🤖 IoT Device Conjuring",
+            "🎮 Interactive UI Magic"
+        };
+        
+        while(true) {
+            Arrays.stream(creations)
+                  .map(project -> "✨ Casting " + project)
+                  .forEach(System.out::println);
+        }
+    }
+}
